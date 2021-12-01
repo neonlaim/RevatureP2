@@ -1,4 +1,4 @@
-Will move P2 here soon
-
-
-I plan to create a Scala console application that retrieves Movie data using Apache Hive. This Scala CLI will consume data from an external API and will analyze the data with the objective of analyze  customer data and create watch recommendation by previous data.
+Project 2. 
+Spark Application that process NFL data.
+App analized NFL data for 2019-2020 years.using hive an hadoop and query SparkSQL
+It has 2 types of users: BASIC and ADMIN with encrypted Passwords via MD5 hash function.
